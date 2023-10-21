@@ -1,4 +1,4 @@
 # Demo
 To learn git and github
 <br>
-Author-Pranav Kumar
+Author-Pranav Kumar(NIT Delhi)
